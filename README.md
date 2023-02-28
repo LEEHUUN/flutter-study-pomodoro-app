@@ -12,7 +12,7 @@
   - 시작 버튼 클릭시 카운트.
   - 시간이 0이 될시, 사용자가 완료한 총 횟수 1 증가.
 
-<br /> <br />
+<br />
 
 ### 0. User Interface (학습일자: 23.02.28)
 
@@ -20,3 +20,8 @@
 - Expanded: 영역을 화면 끝까지 확장.
 - ColorScheme.fromSwatch로 기설정된 컬러 스킴 수정 가능.
 - pomodoro screen publishing.
+  <br /><br />
+
+### 1. Timer (학습일자: 23.02.28)
+
+- Timer를 이용한 count state 구현.
