@@ -25,3 +25,8 @@
 ### 1. Timer (학습일자: 23.02.28)
 
 - Timer를 이용한 count state 구현.
+  <br /><br />
+
+### 2. Pause Play (학습일자: 23.02.28)
+
+- isRunning state로 일시정지 기능 구현.
