@@ -30,3 +30,9 @@
 ### 2. Pause Play (학습일자: 23.02.28)
 
 - isRunning state로 일시정지 기능 구현.
+  <br /><br />
+
+### 3. Date Format (학습일자: 23.03.01)
+
+- 25분 timer 완료시 timer 초기화 구문 추가.
+- second -> mm:ss로 format 변환.
