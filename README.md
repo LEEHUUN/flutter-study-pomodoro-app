@@ -36,3 +36,8 @@
 
 - 25분 timer 완료시 timer 초기화 구문 추가.
 - second -> mm:ss로 format 변환.
+  <br /><br />
+
+### 4. Code Challenge (학습일자: 23.03.01)
+
+- 미션: 리셋 버튼 만들기.
